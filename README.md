@@ -39,7 +39,8 @@ Complete **4 out of 6 tasks** across 3 difficulty levels.
 
 ## Project Screenshot
 
-![All Tasks Running](screenshots/Cognifyz_Internship_COMPLETE_TASK.png)
+<img width="1156" height="694" alt="image" src="https://github.com/user-attachments/assets/7a36ac67-5e78-4b94-b060-2010ba49eb55" />
+
 
 ## Project Structure
 
