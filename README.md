@@ -182,7 +182,7 @@ python <filename>.py
 
 ## Links
 - **GitHub Repository:** https://github.com/Priti-2006/Cognifyz-Internship
-- **LinkedIn Post:** *(add your post link here)*
+- **LinkedIn Post:** *(https://www.linkedin.com/feed/update/urn:li:activity:7474732097018949632/)*
 - **Company Website:** [www.cognifyz.com](https://www.cognifyz.com)
 
 ---
