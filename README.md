@@ -37,6 +37,10 @@ Complete **4 out of 6 tasks** across 3 difficulty levels.
 
 ---
 
+## Project Screenshot
+
+![All Tasks Running](screenshots/Cognifyz_Internship_COMPLETE_TASK.png)
+
 ## Project Structure
 
 ```
